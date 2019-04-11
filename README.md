@@ -1,2 +1,3 @@
-# testfirstgithub
-github description
+ testfirstgithub
+
+detail about the first project
